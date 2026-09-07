@@ -1,6 +1,6 @@
 # Olá, eu sou Marcelo 👋
 
-💻 Desenvolvedor em formação
+💻 Desenvolvedor Backend em formação
 🐍 Foco atual: Python e Backend
 📚 Atualmente estudando APIs, SQL e desenvolvimento web
 📍 Porto, Portugal
@@ -21,15 +21,6 @@ profissionalmente como desenvolvedor de software.
 
 ## Tecnologias
 
-### Atualmente estudando
-
-- Python
-- FastAPI
-- PostgreSQL
-- REST APIs
-- Git/GitHub
-- Docker
-
 ### Conhecimentos
 
 - Python
@@ -38,6 +29,16 @@ profissionalmente como desenvolvedor de software.
 - CSS
 - NoSQL
 - Java (básico)
+- Linux
+
+### Atualmente estudando
+
+- Python
+- FastAPI
+- PostgreSQL
+- REST APIs
+- Git/GitHub
+- Docker
 
 ---
 
